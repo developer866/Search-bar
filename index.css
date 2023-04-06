@@ -1,0 +1,39 @@
+/* Add CSS here */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+    font-weight: bold;
+}
+.box{
+    background: p;
+    display: flex;
+    align-items: center;
+    /* padding: 0.3rem; */
+}
+input{
+    width: 400px;
+    padding: 1.4rem;
+    font-size: large;
+    color: gray;
+    margin: 0%;
+}
+select{
+    padding: 1.56rem;
+    position: relative;
+    color: black;
+}
+button{
+     padding: 1.3rem;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     margin-left: 0.3rem;
+     background: blue;
+     color: white;
+    border-radius:0.5rem;
+    box-shadow: 0px 0px 10px 0px blue;
+}
+#search{
+    margin-right:1rem ;
+}
